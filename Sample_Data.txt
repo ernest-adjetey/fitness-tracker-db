@@ -1,0 +1,13 @@
+USERS:
+1, John, Smith, john@email.com
+2, Sarah, Johnson, sarah@email.com
+3, Mike, Wilson, mike@email.com
+
+EXERCISES:
+1, Bench Press, Chest, Barbell
+2, Squats, Legs, Barbell  
+3, Running, Cardio, Treadmill
+
+WORKOUTS:
+1, 1, 2024-01-15, Strength
+2, 2, 2024-01-16, Cardio

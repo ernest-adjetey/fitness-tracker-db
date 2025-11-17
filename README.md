@@ -1,2 +1,3 @@
-# fitness-tracker-db
-Personal Fitness Tracker Database Design for Database Course
+# Fitness Tracker Database
+EER Diagram for personal fitness tracking system.
+Includes tables for users, workouts, exercises, nutrition, and body measurements.
